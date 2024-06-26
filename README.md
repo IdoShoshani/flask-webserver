@@ -75,15 +75,6 @@ Ports are numerical identifiers in the range 0-65535 used to route network traff
 
 4. **Push to the remote repository:**
    ```sh
-   git remote add origin <repository-url>
+   git remote add origin https://github.com/IdoShoshani/flask-webserver.git
    git push -u origin master
    ```
-
-Replace `<repository-url>` with the URL of your remote Git repository.
-
-## Conclusion
-
-This project demonstrates a simple Flask web server that listens on port 8000 and provides a REST API endpoint. The `README.md` file explains the concepts of external IP, internal IP, and ports, and provides instructions for setting up, running, and pushing the project to a Git repository.
-```
-
-Copy the above content into your `README.md` file, replacing `<repository-url>` with the URL of your Git repository.
