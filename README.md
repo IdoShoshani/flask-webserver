@@ -7,18 +7,18 @@ This project is a simple Flask web server that listens on port 8000. It includes
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/IdoShoshani/flask-webserver.git
+   cd flask-webserver
    ```
 
 2. **Install dependencies:**
    ```sh
-   pip install -r requirements.txt
+   pip install Flask
    ```
 
 3. **Run the Flask application:**
    ```sh
-   python app.py
+   python main.py
    ```
 
 ## REST API
